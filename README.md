@@ -1,2 +1,2 @@
 # PS_Remove_Empty_Dirs
-Remove empty directories from a directory structure
+Powershell script to remove empty directories from a directory hierarchy.
